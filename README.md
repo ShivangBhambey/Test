@@ -1,2 +1,2 @@
 # Hello Everyone 
-BAA1030 is not taught properly. 
+BAA1030 is awesome. 
