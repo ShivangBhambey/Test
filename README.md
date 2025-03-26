@@ -1,1 +1,2 @@
-# Anushree Srinivasan is a cool girl
+# Hello Everyone 
+BAA1030 is not taught properly. 
